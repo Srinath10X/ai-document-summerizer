@@ -1,0 +1,5 @@
+# Node_modules (Reason why every javascript dev needs an SSD more than 512Gb 😭)
+node_modules
+
+# Don't forgot to add this .env to your gitignore otherwiser you are cooked 💀
+.env
